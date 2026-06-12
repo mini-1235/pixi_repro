@@ -1,0 +1,11 @@
+[workspace]
+authors = ["mini-1235 <mauricepurnawan@gmail.com>"]
+channels = ["conda-forge", "https://prefix.dev/robostack-rolling"]
+name = "pixi_repro_ws"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+ros-rolling-desktop-full = ">=0.13.0,<0.14"

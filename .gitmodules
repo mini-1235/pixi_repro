@@ -1,0 +1,4 @@
+[submodule "src/backward_ros"]
+	path = src/backward_ros
+	url = https://github.com/pal-robotics/backward_ros.git
+	branch = foxy-devel
